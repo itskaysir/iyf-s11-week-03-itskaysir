@@ -1,34 +1,70 @@
-# Week 03: Tools & Workflow
+# IYF Week 03: Tools & Workflow
 
-## Author
-- **Name:** Antony Juma
-- **GitHub:** [@itskaysir](https://github.com/itskaysir)
-- **Date:** 06 30, 2026
+## 📖 Description
 
-## Project Description
-Brief description of what you built and why.
+This project demonstrates my understanding of Git and GitHub workflows learned during Week 03 of the IYF program. Throughout this project, I practiced creating and managing branches, merging changes, resolving merge conflicts, working with remote repositories, cloning repositories, and using a `.gitignore` file. I also created simple HTML pages to apply these concepts in a real project.
 
-## Technologies Used
+## 🌐 Live Demo
+
+Coming Soon
+
+## 📸 Screenshot
+
+Coming Soon
+
+## ✨ Features
+
+- ✅ Git repository initialization
+- ✅ Git branching and switching
+- ✅ Merge branches successfully
+- ✅ Resolve merge conflicts
+- ✅ Connect local repository to GitHub
+- ✅ Push and pull changes
+- ✅ Clone a remote repository
+- ✅ Configure a `.gitignore` file
+- ✅ Basic HTML pages
+
+## 🛠️ Technologies Used
+
 - HTML5
-- CSS3
-- JavaScript
-- (list all technologies)
+- Git
+- GitHub
+- Visual Studio Code
+- Git Bash
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+## 📂 Project Structure
 
-## How to Run
-1. Clone this repository
-2. Open `index.html` in your browser
-   OR
-   Run `npm install` then `npm start`
+```
+iyf-s11-week-03-itskaysir/
+│
+├── README.md
+├── .gitignore
+├── index.html
+├── about.html
+└── terminal-log.md
+```
 
-## Lessons Learned
-What did you learn while building this project?
+## 🚀 What I Learned
 
-## Challenges Faced
-What problems did you encounter and how did you solve them?
+This week I learned how professional developers use Git and GitHub to manage projects. I gained hands-on experience with:
 
-#### This change was made from a cloned repository
+- Creating and switching branches
+- Making meaningful commits
+- Merging feature branches into the main branch
+- Resolving merge conflicts
+- Connecting local repositories to GitHub
+- Cloning repositories
+- Pulling and pushing changes
+- Using `.gitignore` to exclude unnecessary files
+
+## 📌 Future Improvements
+
+- Add CSS styling
+- Build a multi-page website
+- Learn GitHub Pages deployment
+- Add JavaScript interactivity
+
+## 👨‍💻 Author
+
+**Kaysir**  
+GitHub: https://github.com/itskaysir
